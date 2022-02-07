@@ -1,4 +1,4 @@
-# webpack-configuracion-estandar
+# webpack-Starter
 
 ## Nota
 Recuerden que para reconstruir los módulos de node deben de ejecutar este comando
